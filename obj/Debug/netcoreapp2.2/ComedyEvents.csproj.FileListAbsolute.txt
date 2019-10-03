@@ -1,0 +1,14 @@
+C:\Users\punit\source\repos\ComedyEvents\bin\Debug\netcoreapp2.2\ComedyEvents.deps.json
+C:\Users\punit\source\repos\ComedyEvents\bin\Debug\netcoreapp2.2\ComedyEvents.runtimeconfig.json
+C:\Users\punit\source\repos\ComedyEvents\bin\Debug\netcoreapp2.2\ComedyEvents.runtimeconfig.dev.json
+C:\Users\punit\source\repos\ComedyEvents\bin\Debug\netcoreapp2.2\ComedyEvents.dll
+C:\Users\punit\source\repos\ComedyEvents\obj\Debug\netcoreapp2.2\ComedyEvents.csprojAssemblyReference.cache
+C:\Users\punit\source\repos\ComedyEvents\obj\Debug\netcoreapp2.2\ComedyEvents.csproj.CoreCompileInputs.cache
+C:\Users\punit\source\repos\ComedyEvents\obj\Debug\netcoreapp2.2\ComedyEvents.RazorAssemblyInfo.cache
+C:\Users\punit\source\repos\ComedyEvents\obj\Debug\netcoreapp2.2\ComedyEvents.RazorAssemblyInfo.cs
+C:\Users\punit\source\repos\ComedyEvents\obj\Debug\netcoreapp2.2\ComedyEvents.AssemblyInfoInputs.cache
+C:\Users\punit\source\repos\ComedyEvents\obj\Debug\netcoreapp2.2\ComedyEvents.AssemblyInfo.cs
+C:\Users\punit\source\repos\ComedyEvents\obj\Debug\netcoreapp2.2\ComedyEvents.RazorTargetAssemblyInfo.cache
+C:\Users\punit\source\repos\ComedyEvents\bin\Debug\netcoreapp2.2\ComedyEvents.pdb
+C:\Users\punit\source\repos\ComedyEvents\obj\Debug\netcoreapp2.2\ComedyEvents.dll
+C:\Users\punit\source\repos\ComedyEvents\obj\Debug\netcoreapp2.2\ComedyEvents.pdb

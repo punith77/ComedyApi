@@ -1,0 +1,14 @@
+﻿version: '3'
+services:
+  postgres:
+    image: postgres
+    environment:
+      - POSTGRES_USER=app
+      - POSTGRES_PASSWORD=app
+      - POSTGRES_DB=mydbname
+    volumes:
+      - comedyApi-db:/var/lib/postgresql/data
+    ports:
+       - 5432:5432
+volumes:
+  comedyApi-db:
